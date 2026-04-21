@@ -21,7 +21,6 @@ This project analyzes the volatility and resilience of bank credit growth in Ind
 |------|-------------|
 | `data_master.xlsx` | Master dataset with all calculations (YoY growth, volatility, correlations) |
 | `Project_Report.pdf` | Complete 13-section analysis report |
-| `Presentation.pptx` | Summary slides for presentation |
 
 ## Key Charts
 

@@ -2,10 +2,10 @@
 Analysis of bank credit growth volatility and resilience during India's digital lending expansion era (2019-2026)
 # Bank Credit Growth Volatility & Resilience in India (2019–2026)
 
-## 📊 Project Overview
+## Project Overview
 This project analyzes the volatility and resilience of bank credit growth in India during the digital lending expansion era (2019–2026), covering the COVID-19 pandemic and the Default Loss Guarantee (DLG) regulatory intervention.
 
-## 🔑 Key Findings
+## Key Findings
 
 | Finding | Result |
 |---------|--------|
@@ -15,7 +15,7 @@ This project analyzes the volatility and resilience of bank credit growth in Ind
 | Post-DLG Volatility | **1.56%** ↓ |
 | UPI Growth (Nov 2019 to Jan 2026) | 124 Cr → **2,170 Cr** |
 
-## 📁 Files in this Repository
+## Files in this Repository
 
 | File | Description |
 |------|-------------|
@@ -23,7 +23,7 @@ This project analyzes the volatility and resilience of bank credit growth in Ind
 | `Project_Report.pdf` | Complete 13-section analysis report |
 | `Presentation.pptx` | Summary slides for presentation |
 
-## 📈 Key Charts
+## Key Charts
 
 | Chart | What it shows |
 |-------|---------------|
@@ -35,7 +35,7 @@ This project analyzes the volatility and resilience of bank credit growth in Ind
 |UPI_VS_Personal_loan_growth|scatter plot|
 |Year-on-Year_Growth_of_Bank_Credit(%)|bank_credit growth|
 
-## 📊 Data Sources
+## Data Sources
 
 | Source | Data |
 |--------|------|
@@ -44,13 +44,13 @@ This project analyzes the volatility and resilience of bank credit growth in Ind
 | RBI Sectoral Deployment | Personal Loans Outstanding |
 | RBI Major Monetary Policy Rates | Repo Rate, CRR |
 
-## 🛠 Tools Used
+## Tools Used
 - Microsoft Excel (data cleaning, analysis, visualization)
 - Microsoft Word (report writing)
 
-## 👨‍💻 Author
+## Author
 **Shree Bhumikha**
 BSc (Computer Science, Statistics & Economics)
 
-## 📅 Date
+## Date
 21 April 2026

@@ -27,13 +27,13 @@ This project analyzes the volatility and resilience of bank credit growth in Ind
 
 | Chart | What it shows |
 |-------|---------------|
-|Bank_Credit_and_UPI_Growth_in_India_(2019–2026)|
-|GRAPHS\PRE_vs_POST_covid_comparisons|
-|PRE_vs_POST_DLG_policy|
-|Rolling_12-Month_Volatility_of_Bank_Credit_Growth|
-|UPI_vs_Bank_credit_growth|
-|UPI_VS_Personal_loan_growth|
-|Year-on-Year_Growth_of_Bank_Credit(%)|
+|Bank_Credit_and_UPI_Growth_in_India_(2019–2026)|Dual-axis comparison of bank credit and digital payments |
+|PRE_vs_POST_covid_comparisons|Volatility annd average comparison before/after covid|
+|PRE_vs_POST_DLG_policy|Volatility annd average comparison before/after June 2023|
+|Rolling_12-Month_Volatility_of_Bank_Credit_Growth|VOLATALITY BETWEEN YEARS|
+|UPI_vs_Bank_credit_growth|scatter plots|
+|UPI_VS_Personal_loan_growth|scatter plot|
+|Year-on-Year_Growth_of_Bank_Credit(%)|bank_credit growth|
 
 ## 📊 Data Sources
 
